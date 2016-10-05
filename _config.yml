@@ -1,16 +1,22 @@
 # Site settings
-title: Vince Tse
-description: 'Software enginerd.  Technology mentor, cheerleader & coach. #WhatProblemAreYouTryingToSolve'
-url: 'https://{github_username}.github.io'
+title: "Vince Tse"
+description: "Software enginerd. Technology mentor, cheerleader & coach. #WhatProblemAreYouTryingToSolve"
+url: 'https://www.vincetse.com'
 baseurl: '/'
 google_analytics: 'UA-75285770-1'
 # disqus_shortname: 'your-disqus-name'
 profile_image: 'images/profile.jpg'
 cover_image: 'images/U7Fc1sy5SCUDIu4tlJY3_NY_by_PhilippHenzler_philmotion.de.2545x1200.jpg'
+social_media:
+  title: "Software enginerd. Technology mentor, cheerleader & coach."
+  description: "Software enginerd. Technology mentor, cheerleader & coach."
+  profile_image: 'images/vincetse-2016-05-29.jpg'
+  type: 'website'
 
 author:
   name: 'Vince Tse'
   show_blog: false
+  gplus_profile_url: "https://plus.google.com/u/0/116496789423041407327"
   twitter_username: vincetse
   github_username:  vincetse
   linkedin_username:  vincetse

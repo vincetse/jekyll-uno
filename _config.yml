@@ -1,6 +1,6 @@
 # Site settings
 title: "Vince Tse"
-description: "Software Enginerd. Technology Veteran. Mentor & Coach. #WhatProblemAreYouTryingToSolve"
+description: "Software Enginerd. Learn & Teach. #WhatProblemAreYouTryingToSolve"
 url: 'https://www.vincetse.com'
 baseurl: '/'
 google_analytics: 'UA-75285770-1'
@@ -8,8 +8,8 @@ google_analytics: 'UA-75285770-1'
 profile_image: 'images/vincetse-2016-05-29.jpg'
 cover_image: 'images/highways-interchange-2048x1365.jpg'
 social_media:
-  title: "Software Enginerd. Technology Veteran. Mentor & Coach."
-  description: "Software Enginerd. Technology Veteran. Mentor & Coach."
+  title: "Software Enginerd. Learn & Teach. #WhatProblemAreYouTryingToSolve"
+  description: "Software Enginerd. Learn & Teach. #WhatProblemAreYouTryingToSolve"
   profile_image: 'images/vincetse-2016-05-29.jpg'
   type: 'website'
 

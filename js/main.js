@@ -29,11 +29,6 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  // default to home path
-  if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
-    window.location.replace('/')
-  }
-
   $('.btn-mobile-menu').click(function () {
     $('.navigation-wrapper').toggleClass('visible animated bounceInDown')
     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')

@@ -1,6 +1,6 @@
 # Site settings
 title: "Vince Tse"
-description: "Software Enginerd. Learn & Teach. #WhatProblemAreYouTryingToSolve"
+description: "Software Enginerd. Tech Geek. #WhatProblemAreYouTryingToSolve #KeepLearning"
 url: 'https://www.vincetse.com'
 baseurl: '/'
 google_analytics: 'UA-75285770-1'
@@ -8,15 +8,14 @@ google_analytics: 'UA-75285770-1'
 profile_image: 'images/vincetse-2016-05-29.jpg'
 cover_image: 'images/highways-interchange-2048x1365.jpg'
 social_media:
-  title: "Software Enginerd. Learn & Teach. #WhatProblemAreYouTryingToSolve"
-  description: "Software Enginerd. Learn & Teach. #WhatProblemAreYouTryingToSolve"
+  title: "Software Enginerd. Tech Geek. #WhatProblemAreYouTryingToSolve #KeepLearning"
+  description: "Software Enginerd. Tech Geek. #WhatProblemAreYouTryingToSolve #KeepLearning"
   profile_image: 'images/vincetse-2016-05-29.jpg'
   type: 'website'
 
 author:
   name: 'Vince Tse'
   show_blog: false
-  gplus_profile_url: "https://plus.google.com/u/0/116496789423041407327"
   twitter_username: vincetse
   github_username:  vincetse
   linkedin_username:  vincetse

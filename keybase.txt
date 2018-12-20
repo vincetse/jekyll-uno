@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vincetse
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.vincetse.com
+  * I am vincetse (https://keybase.io/vincetse) on keybase.
+  * I have a public key ASATsyZLcFORL-chtmgPBQ-0xeKXjReC8alox58ySJQvVgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b5b2d39da4d6a0c464791a531a13e23cda1daaa5f50c0d630531b4d893d588cb0a",
+      "host": "keybase.io",
+      "kid": "012013b3264b7053912fe721b6680f050fb4c5e2978d1782f1a968c79f3248942f560a",
+      "uid": "9b769738af522adadc55e03791382319",
+      "username": "vincetse"
+    },
+    "merkle_root": {
+      "ctime": 1545333315,
+      "hash": "9c90883594ba5b9d1952cd00412f8c1a05ad226a87ab3d8921704ad932215c107e428abc17618b1c96769f9d9daac70fa2ebf1ee09d0cb4b4534009c02b69c4e",
+      "hash_meta": "3dd6f91e1fa58f9cbce43ace062d5446153e7a2954e4e30adce411deb6a8cd4f",
+      "seqno": 4176565
+    },
+    "service": {
+      "entropy": "kwyoB2SlLKFU8QQw4dGjc1Vf",
+      "hostname": "www.vincetse.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.2"
+  },
+  "ctime": 1545333330,
+  "expire_in": 504576000,
+  "prev": "6672c2aade515ebe8cdd6ced230214de1e843b0903929d0e81be407ebb40f3ee",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE7MmS3BTkS/nIbZoDwUPtMXil40XgvGpaMefMkiUL1YKp3BheWxvYWTESpcCGcQgZnLCqt5RXr6M3WztIwIU3h6EOwkDkp0Ogb5AfrtA8+7EIBkBWMMVsdM2TdyXoB01E3D4QzMy750pzmNCcAPfmMrTAgHCo3NpZ8RAzeoPs925RCib972FnA+bPrnWx8Mw3IPBDlDQC1sa6brQRC9HR+MWNYRIqwXF14ETALuhUT12anftlWvQmY89BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIChnxKJp62CgBKdspnhdagJNgylqYEtuOVLzLCM06Frao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vincetse
+
+==================================================================

@@ -1,6 +1,6 @@
 # Site settings
 title: "Vince Tse"
-description: "Jack of all trades, master of none. Expert at learning new trades. Cheerleader. #WhatProblemAreYouTryingToSolve"
+description: "Software enginerd. Jack of all trades. #ChaosMonkey #WhatProblemAreYouTryingToSolve"
 url: 'https://www.vincetse.com'
 baseurl: '/'
 google_analytics: 'UA-75285770-1'
@@ -8,8 +8,8 @@ google_analytics: 'UA-75285770-1'
 profile_image: 'images/vincetse-2016-05-29.jpg'
 cover_image: 'images/highways-interchange-2048x1365.jpg'
 social_media:
-  title: "Jack of all trades, master of none. Expert at learning new trades. Cheerleader. #WhatProblemAreYouTryingToSolve"
-  description: "Jack of all trades, master of none. Expert at learning new trades. Cheerleader. #WhatProblemAreYouTryingToSolve"
+  title: "Software enginerd. Jack of all trades. #ChaosMonkey #WhatProblemAreYouTryingToSolve"
+  description: "Software enginerd. Jack of all trades. #ChaosMonkey #WhatProblemAreYouTryingToSolve"
   profile_image: 'images/vincetse-2016-05-29.jpg'
   type: 'website'
 
